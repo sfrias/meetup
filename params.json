@@ -1,0 +1,6 @@
+{
+  "name": "Meetup",
+  "tagline": "Material about our meetups",
+  "body": "# Tarragona Developers Meetup\r\n\r\nTarragona developers have organized [a series of meetups](http://www.meetup.com/Tarragona-Developers-Meetup/) to share\r\nexperiences and learn ones from the others.\r\n\r\n# What can you find in this project?\r\n\r\nThis project gathers several aspects from our meetups to make\r\nthem public and collected in a certain order.\r\n\r\nHere, in the following, you can find all the topics available by now:\r\n\r\n* [Meetup events](http://www.meetup.com/Tarragona-Developers-Meetup/)\r\n* [Proposals for next meetups](meetups.md)\r\n\r\nJoin our meetups!",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
